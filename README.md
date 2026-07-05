@@ -1,1 +1,1 @@
-Este repositorio contiene los scripts utilizados para el procesamiento y el análisis de los estudios analizados para el Trabajo Final de Máster.
+Este repositorio contiene los scripts utilizados para el procesamiento y el análisis de los estudios analizados para el Trabajo Final de Máster "Caracterización del envejecimiento patológico en la enfermedad de Alzheimer mediante estrategias computacionales basadas en datos transcriptómicos de célula única".
