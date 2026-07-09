@@ -432,7 +432,7 @@ dibujar_heatmap <- function(mat, mat_p, titulo, nombre_archivo, retornar_objeto 
 }
 
 ################################################################################
-# FUNCIÓN ORQUESTADORA: GENERA LOS 3 HEATMAPS POR FUNCIÓN
+# FUNCIÓN UNIFICADORA: GENERA LOS 3 HEATMAPS POR FUNCIÓN
 #   1. General   — todos los genes significativos en ≥1 casilla
 #   2. Opuestos  — tendencias AD vs Control opuestas en ≥2 tipos celulares
 #   3. Iguales   — tendencias AD vs Control iguales  en ≥2 tipos celulares
